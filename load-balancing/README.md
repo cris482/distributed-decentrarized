@@ -1,3 +1,7 @@
+LINK :
+[![load-balancing](asset/bc/load-balancing.jpg)](https://drive.google.com/drive/folders/15jSLzAHpQRc2H-S6PIznHeUhqgzeATg8?usp=sharing)
+
+
 <h1 align "center"> Alur Aplikasi </h1>
 
 <b>1.</b> Client request ke http://localhost
