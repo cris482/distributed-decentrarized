@@ -1,5 +1,5 @@
  Link video :
-  [![block-chain smart_contract](lINK GAMBAR)](LINK GDRIVE)
+  [![block-chain smart_contract](https://drive.google.com/drive/folders/15jSLzAHpQRc2H-S6PIznHeUhqgzeATg8?usp=sharing)
 
 <p>
 <b>Alur Kerja Aplikasi</b>
